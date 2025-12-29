@@ -1,135 +1,104 @@
-# 👋 Hi, I'm Aksikas Mohamed Souhaib
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Aksikas Mohamed Souhaib</h1>
+<h3 align="center">3rd Year Computing Student @ UM6P | Minor Data & AI</h3>
 
-🎓 **3rd Year Student** at **College of Computing – UM6P**  
-📘 **Minor:** Data & Artificial Intelligence  
-💡 Passionate about **Software Engineering, DevOps, Formal Methods, and Web Development**
-
-🔗 **LinkedIn:**  
-[https://www.linkedin.com/in/mohamed-souhaib-aksikas-982916376/](https://www.linkedin.com/in/mohamed-souhaib-aksikas-982916376/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-souhaib-aksikas-982916376/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:souhaibaksikas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am a motivated computer science student with strong foundations in **algorithms, systems, and software engineering**.  
-I enjoy building **robust applications**, designing **automated CI/CD pipelines**, and working on **theoretical and practical projects** ranging from **formal verification** to **full-stack web development**.
+🎓 3rd year student at **College of Computing – UM6P**  
+📘 **Minor:** Data & Artificial Intelligence  
+🛠️ Interested in **Software Engineering, DevOps, Formal Methods & Web Development**  
+📈 I enjoy building **robust systems**, **automated pipelines**, and **scalable applications**
 
 ---
 
 ## 🧠 Skills & Technologies
 
-### Programming Languages
-- Java
-- Python
-- C / C++
-- JavaScript
-- Assembly (RISC-V)
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,sql" />
+</p>
 
-### Web & App Development
-- HTML, CSS
-- Vue.js, Nuxt.js
-- Node.js
-- Firebase (Auth & Firestore)
+### ⚙️ Frameworks & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,nodejs,firebase" />
+</p>
 
-### Databases
-- SQL
-
-### DevOps & Tools
-- Git & GitHub
-- Linux
-- Docker
-- Kubernetes
-- Jenkins
-- SonarQube
-- Prometheus
-- Grafana
+### 🧰 DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,kubernetes,jenkins" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
 ### 🔹 Automata – Symbolic Control of Nonlinear Systems
-**Technologies:** Automata Theory, Mathematical Modeling, Formal Methods  
-**Goal:**  
-Build a symbolic abstraction of a nonlinear system and synthesize a controller that guarantees **safety and reachability** despite disturbances.
+🧠 **Automata • Formal Methods • Mathematical Modeling**  
+Symbolic abstraction and controller synthesis ensuring **safety & reachability** under disturbances.
 
-🔗 Repository: _[Coming Soon]_
+🔗 👉 [View Repository](#)
 
 ---
 
 ### 🔹 Library Book Borrowing System
-**Technologies:** Java, JavaFX, SQL, Interval Scheduling  
-**Goal:**  
-Develop a complete library management system integrating an **interval scheduling algorithm** to prevent reservation conflicts and manage:
-- Books
-- Borrowings
-- Users
-- Non-overlapping loan periods
+📚 **Java • JavaFX • SQL • Interval Scheduling**  
+Library management system with **conflict-free reservation scheduling**.
 
-🔗 Repository: _[Coming Soon]_
+🔗 👉 [View Repository](#)
 
 ---
 
-### 🔹 Global DevOps Project – Complete CI/CD Pipeline
-**Technologies:** Docker, Kubernetes, Jenkins, SonarQube, GitHub Actions  
-**Goal:**  
-Design and implement a **fully automated CI/CD pipeline** including:
-- Build & testing
-- Code quality analysis
-- Deployment of a distributed application
+### 🔹 Global DevOps Project – CI/CD Pipeline
+⚙️ **Docker • Kubernetes • Jenkins • SonarQube • GitHub Actions**  
+End-to-end automated CI/CD pipeline for a distributed application.
 
-🔗 Repository: _[Coming Soon]_
+🔗 👉 [View Repository](#)
 
 ---
 
 ### 🔹 Hangman Game (Python)
-**Technologies:** Python  
-**Goal:**  
-Implement a console-based Hangman game to practice:
-- Algorithmic logic
-- String manipulation
-- Control structures
+🎮 **Python**  
+Console-based game demonstrating algorithmic logic and string manipulation.
 
-🔗 Repository: _[Coming Soon]_
+🔗 👉 [View Repository](#)
 
 ---
 
-### 🔹 Nuxt 3 FakeStore – E-Commerce Mini Platform
-**Technologies:** Nuxt 3, TailwindCSS, Netlify  
-**Goal:**  
-Develop a mini e-commerce application featuring:
-- Automatic routing
-- Custom layouts
-- Dynamic components (ProductCard & ProductDetails)
-- Product listing & detail pages
-- Full deployment on Netlify
+### 🔹 Nuxt 3 FakeStore – E-Commerce Platform
+🛒 **Nuxt 3 • TailwindCSS • Netlify**  
+Mini e-commerce app with dynamic components, routing, and full deployment.
 
-🔗 Repository: _[Coming Soon]_
+🔗 👉 [View Repository](#)
 
 ---
 
 ### 🔹 Quiz Application – Auth & Admin Dashboard
-**Technologies:** Firebase Auth & Firestore, JavaScript, Responsive UI  
-**Goal:**  
-Build a complete quiz web application including:
-- User authentication
-- Admin dashboard (create/edit quizzes)
-- Question-by-question quiz flow
-- Instant feedback & scoring
-- Score history & real-time leaderboard
+📝 **Firebase • JavaScript • Responsive UI**  
+Quiz platform with authentication, admin dashboard, scoring, and leaderboard.
 
-🔗 Repository: _[Coming Soon]_
+🔗 👉 [View Repository](#)
 
 ---
 
-## 📈 Currently Learning
-- Advanced DevOps & Cloud Native architectures
-- Data & AI foundations
-- Software architecture & system design
+## 📈 Currently Exploring
+- Advanced DevOps & Cloud-Native Systems  
+- Data Engineering & AI Foundations  
+- Software Architecture & System Design  
 
 ---
 
-## 📫 Contact
-Feel free to connect with me on **LinkedIn** or explore my repositories here on GitHub!
-
-⭐ *Always open to learning, collaboration, and new challenges.*
+⭐ *Feel free to explore my repositories or reach out via LinkedIn or Gmail.*
