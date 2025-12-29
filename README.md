@@ -1,5 +1,8 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Aksikas Mohamed Souhaib</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Aksikas+Mohamed+Souhaib;3rd+Year+Computing+Student+@+UM6P;Minor+in+Data+%26+AI" alt="Typing SVG" />
+</p>
+
 <h3 align="center">3rd Year Computing Student @ UM6P | Minor Data & AI</h3>
 
 <p align="center">
