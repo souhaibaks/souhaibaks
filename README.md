@@ -1,7 +1,8 @@
 <!-- Animated Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Aksikas+Mohamed+Souhaib;3rd+Year+Computing+Student+@+UM6P;Minor+in+Data+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Aksikas+Mohamed+Souhaib;3rd+Year+Computing+Student+@+UM6P;Minor+in+Data+%26+AI" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-souhaib-aksikas-982916376/" target="_blank">
