@@ -58,7 +58,7 @@ Symbolic abstraction and controller synthesis ensuring **safety & reachability**
 📚 **Java • JavaFX • SQL • Interval Scheduling**  
 Library management system with **conflict-free reservation scheduling**.
 
-🔗 👉 [View Repository](#)
+🔗 👉 [View Repository](https://github.com/souhaibaks/Library_Project)
 
 ---
 
@@ -66,23 +66,16 @@ Library management system with **conflict-free reservation scheduling**.
 ⚙️ **Docker • Kubernetes • Jenkins • SonarQube • GitHub Actions**  
 End-to-end automated CI/CD pipeline for a distributed application.
 
-🔗 👉 [View Repository](#)
+🔗 👉 [View Repository](https://github.com/ELTANTAOUI-Y7/Projet-SE-)
 
 ---
 
-### 🔹 Hangman Game (Python)
-🎮 **Python**  
-Console-based game demonstrating algorithmic logic and string manipulation.
-
-🔗 👉 [View Repository](#)
-
----
 
 ### 🔹 Nuxt 3 FakeStore – E-Commerce Platform
 🛒 **Nuxt 3 • TailwindCSS • Netlify**  
 Mini e-commerce app with dynamic components, routing, and full deployment.
 
-🔗 👉 [View Repository](#)
+🔗 👉 [View Repository](https://github.com/souhaibaks/FakeStore)
 
 ---
 
@@ -90,7 +83,7 @@ Mini e-commerce app with dynamic components, routing, and full deployment.
 📝 **Firebase • JavaScript • Responsive UI**  
 Quiz platform with authentication, admin dashboard, scoring, and leaderboard.
 
-🔗 👉 [View Repository](#)
+🔗 👉 [View Repository](https://github.com/souhaibaks/Quiz)
 
 ---
 
