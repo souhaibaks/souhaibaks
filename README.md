@@ -50,7 +50,7 @@
 🧠 **Automata • Formal Methods • Mathematical Modeling**  
 Symbolic abstraction and controller synthesis ensuring **safety & reachability** under disturbances.
 
-🔗 👉 [View Repository](#)
+🔗 👉 [View Repository](https://github.com/souhaibaks/Automaton_Project-full-)
 
 ---
 
