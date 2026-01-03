@@ -48,6 +48,14 @@
 
 ## 📂 Featured Projects
 
+### 🔹 Voice-Activated Chatbot
+🎙️ **Node.js • Socket.io • Dialogflow • AI**  
+Real-time voice-activated chatbot using WebSockets for seamless communication and Google Dialogflow for NLU.
+
+🔗 👉 [View Repository](https://github.com/souhaibaks/Simple-AI-CHATBOT)
+
+---
+
 ### 🔹 Automata – Symbolic Control of Nonlinear Systems
 🧠 **Automata • Formal Methods • Mathematical Modeling**  
 Symbolic abstraction and controller synthesis ensuring **safety & reachability** under disturbances.
